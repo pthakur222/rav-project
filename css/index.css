@@ -1,0 +1,55 @@
+.section-heading{
+  font-family: 'Shrikhand', cursive;
+   font-size: 52px;
+}
+
+.nav-item:hover{
+  background: #C0C4CB;
+  border-radius:  5px;
+}
+
+#services{
+     margin-top: -30px;
+}
+
+.service-box a:hover{
+  text-decoration: none;
+}
+
+.zoom:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5);
+}
+
+li{
+  list-style: none;
+}
+
+.footer, .heading1{
+  background: #4083ef;
+}
+
+#footer-links{
+  margin:0px;
+}
+
+.fab{
+  color: black;
+}
+
+#about{
+  background: #C0C4CB;
+}
+
+.quotes{
+  font-size: 18px;
+  font-style: oblique;
+}
+
+.quotes1{
+  font-size: 24px;
+  padding: 90px;
+  background: #C0C4CB;
+  font-style: oblique;
+}
